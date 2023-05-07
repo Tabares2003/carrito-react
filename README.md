@@ -1,4 +1,4 @@
-Simple shopping cart made with react, context and sass.
+Simple shopping cart made with REACT, context and SASS.
 
 ###
 
